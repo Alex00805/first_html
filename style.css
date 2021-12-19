@@ -1,0 +1,66 @@
+body{
+   
+}
+
+.container{
+   margin: 12px;
+   margin-left: 20px;
+}
+.info1,.info2,.info3{
+      margin: 5px 0;
+      width: 18px;
+      height: 1px;
+      background-color: rgb(12, 11, 11);
+}
+.contik{
+   display: flex;
+
+}
+h3{
+   margin-top: 15px;
+   margin-left: 5px;
+   
+   font-size: larger;
+}
+#logo-icon{
+   margin-top:15px ;
+   margin-left: 10px;
+}
+input{
+   width: 200%;
+   height: 70%;
+   font-size: medium;
+   margin-left: 100px;
+ 
+   margin-top: 2px;
+}
+p{
+   margin-top: 5px;
+   color: rgb(14, 13, 13);
+}
+#country-code{
+     font-size: 11px;
+     margin-top: 8px;
+     color: rgba(14, 0, 0, 0.514);
+}
+.yt{
+   display: flex;
+   width: 18px;
+   height: 18px;
+   margin-top: 15px;
+   margin-left: 20px;
+}
+.arm{
+   width: 55%;
+   height: 45px;
+   display: flex;
+   
+}
+.hip{
+   margin-left: 15px;
+  
+}
+.like{
+   margin-left: 15px;
+   margin-top: 3px;
+}
